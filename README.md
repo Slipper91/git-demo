@@ -2,19 +2,6 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
+## Website content
 
-jhasgfkskjfs
-gdfkgndflkgnkdfng
-dfgkdfnglkdfnglkdfnglkdfng
-gfdkgndlkfngdkfnlkndfg
-dflkgndflkgndlkfgnldkfnglkdfng
-dfklgndflkgndlfgndlkfnglkdfnglkdnfglk;dn
-dfkgdlkngldkfngldkfnglkdfngldfng
-
-
-jhgdkjfhgkjdhfjgd
-fdgdjkgjlkdj
-dflkgndlkgdkjfbg
-ldfkbgkjbskjfbsdkjf
-dsgdfgdfhdfhgfjgfjgfj
+index.html
